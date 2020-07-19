@@ -5,6 +5,8 @@
     &lt;ProjectFile&gt;627FE3DD-4077-4B39-A000-B51DB927C42B/f:LinkedListTest.cs&lt;/ProjectFile&gt;&#xD;
     &lt;TestAncestor&gt;&#xD;
       &lt;TestId&gt;xUnit::627FE3DD-4077-4B39-A000-B51DB927C42B::.NETCoreApp,Version=v3.1::algs_lessons.Tests.AlgorithmsTest.EuclidGcdTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::627FE3DD-4077-4B39-A000-B51DB927C42B::.NETCoreApp,Version=v3.1::algs_lessons.Tests.MinPQTest.PQTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::627FE3DD-4077-4B39-A000-B51DB927C42B::.NETCoreApp,Version=v3.1::algs_lessons.Tests.MinPQTest.PQSimpleTest&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
     &lt;ProjectFile&gt;627FE3DD-4077-4B39-A000-B51DB927C42B/f:AlgorithmsTest.cs&lt;/ProjectFile&gt;&#xD;
   &lt;/Or&gt;&#xD;
